@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallGuardian", "CallGuardian.csproj", "{711C82E4-DB14-4A41-B70B-6F3ADA336786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711C82E4-DB14-4A41-B70B-6F3ADA336786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711C82E4-DB14-4A41-B70B-6F3ADA336786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711C82E4-DB14-4A41-B70B-6F3ADA336786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711C82E4-DB14-4A41-B70B-6F3ADA336786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFAD4D6-5874-4677-9B4B-D1EBD5F0BC91}
+	EndGlobalSection
+EndGlobal
